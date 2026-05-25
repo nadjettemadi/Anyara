@@ -1,0 +1,6 @@
+{
+  "name": "ANYARA",
+  "description": "Système complet de gestion de supérette avec tableau de bord, scannage de produits, alertes de sécurité pour péremption, et gestion automatique des stocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
